@@ -2,7 +2,6 @@
 
 🔒 **Secure, high-performance JavaScript sandbox** for executing untrusted code safely.
 
-## Features
 Custom Globals - Inject variables and functions into sandbox scope
 Module Whitelist - Restrict to only crypto, path, util, os, url modules
 Execution Hooks - Monitor before/after/error/console events
@@ -354,5 +353,6 @@ MIT
 **Package:** runframe v2.1.0  
 **Maintained:** December 2025  
 **Security Status:** ✅ Verified and Protected
+
 
 
